@@ -72,11 +72,9 @@ Use `PRIVACY_POLICY.md` as the privacy policy text or publish that text at a pub
 
 `store-assets/screenshot-main-1280x800.png`
 
-### Promotional tiles
+Original source screenshot:
 
-`store-assets/promo-small-440x280.png`
-
-`store-assets/promo-large-1400x560.png`
+`store-assets/screenshot-main.png`
 
 ## Suggested support text
 
