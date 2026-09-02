@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mute Button for WhatsApp Web">
+  <circle cx="64" cy="64" r="58" fill="#25D366"/>
+  <circle cx="64" cy="64" r="48" fill="#128C7E" opacity="0.35"/>
+  <text
+    x="64"
+    y="70"
+    fill="#FFFFFF"
+    font-family="CaskaydiaMono Nerd Font, CaskaydiaMono Nerd Font Mono, Symbols Nerd Font, NerdFontsSymbols Nerd Font, monospace"
+    font-size="72"
+    font-weight="400"
+    text-anchor="middle"
+    dominant-baseline="middle">&#xF0581;</text>
+</svg>
