@@ -76,6 +76,10 @@ Original source screenshot:
 
 `store-assets/screenshot-main.png`
 
+### Small promotional tile
+
+`store-assets/promo-small-440x280.png`
+
 ## Suggested support text
 
 If the button does not appear, reload WhatsApp Web or disable other WhatsApp Web extensions temporarily to check for interface conflicts.

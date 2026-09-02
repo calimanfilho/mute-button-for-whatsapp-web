@@ -1,0 +1,17 @@
+<svg width="440" height="280" viewBox="0 0 440 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mute Button for WhatsApp Web small promotional tile">
+  <rect width="440" height="280" rx="24" fill="#0B141A"/>
+  <circle cx="92" cy="104" r="66" fill="#25D366"/>
+  <circle cx="92" cy="104" r="54" fill="#128C7E" opacity="0.35"/>
+  <path d="M58 92v27h18l25 21V69L76 92H58Z" fill="#FFFFFF"/>
+  <path d="M109 84C115.1 88.5 119 95.6 119 103.6C119 111.6 115.1 118.7 109 123.3" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M124 70C134.2 78.3 140.5 90.6 140.5 103.8C140.5 117.1 134.2 129.2 124 137.5" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M49 147L146 50" stroke="#25D366" stroke-width="18" stroke-linecap="round"/>
+  <path d="M49 147L146 50" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+
+  <text x="184" y="78" fill="#E9EDEF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Mute Button</text>
+  <text x="184" y="112" fill="#E9EDEF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">for WhatsApp</text>
+  <text x="184" y="146" fill="#E9EDEF" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Web</text>
+  <text x="184" y="187" fill="#AEBAC1" font-family="Inter, Arial, sans-serif" font-size="16">Quickly mute or unmute audio.</text>
+  <rect x="184" y="218" width="154" height="34" rx="17" fill="#25D366"/>
+  <text x="261" y="241" fill="#07130C" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="800" text-anchor="middle">One-click mute</text>
+</svg>
