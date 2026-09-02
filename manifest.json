@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Mute Button for WhatsApp Web",
-  "short_name": "WhatsApp Mute",
+  "short_name": "WAMute",
   "description": "Adds a simple mute/unmute button inside WhatsApp Web using the browser's native tab mute.",
   "version": "1.0.0",
   "icons": {
